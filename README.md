@@ -196,7 +196,10 @@ _global_ void reduceUnrolling16(int *g_idata, int *g_odata, unsigned int n)
 ```
 
 ## OUTPUT:
-![Screenshot 2024-03-27 114732](https://github.com/21002469/PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES-AY-23-24/assets/112633513/a38784ad-3e8c-40e9-8c24-c71b1db87819)
+
+
+![Screenshot 2024-03-27 114732](https://github.com/21002469/PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES-AY-23-24/assets/113591539/1fc74e47-ed94-4d09-87ef-5ddf7948b186)
+
 
 
 ## RESULT:
